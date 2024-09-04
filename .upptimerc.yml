@@ -7,8 +7,6 @@ sites:
     url: https://www.it-thaler.de
   - name: mcusw.de
     url: https://www.mcusw.de
-  - name: sub.mcusw.de
-    url: https://sub.mcusw.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
