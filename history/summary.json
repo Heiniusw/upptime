@@ -4,9 +4,9 @@
     "url": "https://www.it-thaler.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.it-thaler.de.ico",
     "slug": "it-thaler-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 665,
     "timeMonth": 634,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   },
   {
     "name": "mcusw.de",
     "url": "https://www.mcusw.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.mcusw.de.ico",
     "slug": "mcusw-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 596,
     "timeMonth": 588,
     "timeYear": 588,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   }
 ]
